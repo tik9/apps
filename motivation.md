@@ -2,25 +2,20 @@
 layout: default
 ---
 
-To whom it may concern:
+To whom it may concern
 
-I herewith apply with the following qualification for the job mentioned above:  
-&nbsp;
+What you can expect from me:
 
-- got a Bachelor in CS
-- have experience with Object-Oriented development using scripting languages (Mysql, PHP,Python, JavaScript).
-- am open to working with a diverse and geographically distributed team
-- have Experience in QA testing (Python)
-- have strong written communication skills
-- have knowledge of Bash and Git
-- have willingness to learn in fields of anti-harassment tools
 - am an active [developer](https://stackexchange.com/users/1886776/timo?tab=activity)
-- have a very good command of the english language
+- have willingness to learn in fields of
+
 
 &nbsp;
 &nbsp;
 
-My salary expectation is negotiable.
+My salary expectation is negotiable and I am flexible regarding it. The job matters, not the money.
+
+Currently I am working on an IT project (second level support for windows) for a german car company in a remote environment on O365 migration, MS Teams and Cisco VPN products support.
 
 I can start as soon as needed.
 

@@ -18,7 +18,7 @@ Unix
 
 Web
 :   Web IT  <br>
-    Css, Git, Javascript, Jekyll, MySql, Php, Python  
+    Css, Javascript, Jekyll, Php  
     <br>
     <br>
 
@@ -53,9 +53,9 @@ Tools
 
 Tool | Usage (years)
 :-- | :-
+Git | 1,5
 Javascript |1
 MySql | 1
-Php | 1,5
 Powershell | 1
 Python <i class="fab fa-python"></i> | 1           
 {:.table-striped .table-bordered}
