@@ -4,8 +4,7 @@ title: Timo Körner CV
 
 # {{ page.title }}
 
-> Bergstrasse 15, 85120 Hepberg, DE <span style="display:inline-block; width: 100px;"></span><i class="fas fa-globe"></i> 
-&emsp;www.tik9.github.io
+> Bergstrasse 15, 85120 Hepberg, DE, Tel.: +49(0)1573 9598 220 <span style="display:inline-block; width: 50px;"></span><i class="fas fa-globe"></i>&emsp;[Website](https://tik9.github.io/public)
 
 -----------
 <br>
@@ -29,7 +28,6 @@ Websites
     [Github](https://github.com/tik9)  <br>
     [LinkedIn](https://www.linkedin.com/in/timo1818)  <br>
     [Stackoverflow](https://stackexchange.com/users/1886776/timo?tab=activity) <i class="fab fa-stack-overflow"></i><br>
-    [My Website](https://tik9.github.io)  
 <br>
 <br>
 

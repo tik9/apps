@@ -15,7 +15,7 @@ What you can expect from me:
 
 My salary expectation is negotiable and I am flexible regarding it. The job matters, not the money.
 
-Currently I am working on an IT project (second level support for windows) for a german car company in a remote environment on O365 migration, MS Teams and Cisco VPN products support.
+Currently I am working on an IT project (second level support for Windows) for a german car company in a remote environment on Windows and O365 problems and Software deployment.
 
 I can start as soon as needed.
 
