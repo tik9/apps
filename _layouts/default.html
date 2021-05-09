@@ -1,52 +1,75 @@
 <html>
-<head>
 
+<head>
+<link href="assets/favicon.png" rel=icon />
 </head>
 
 <body>
-<h4>Timo Körner</h4>
-Bergstrasse 15, 85120 Hepberg, Deutschland, Tel.: +49(0)1573 9598 220
-<div style=margin-top:30px;></div>
+    <div>Timo Körner</div>
+    Bergstrasse 15, 85120 Hepberg, Deutschland, Tel.: +49(0)1573 9598 220
+    <div style=margin-top:50px;></div>
 
-<h4 id=company></h4>
-HR  
-<div style=margin-top:50px;></div>
+    <span id=company></span><br>
+    HR
+    <div id=address></div>
 
-<span style="display:inline-block; width: 450px;"></span>
-<span id=date></span>  
+    <div style=margin-top:50px;></div>
 
-<div style=margin-top:30px;></div>
+    <span style="display:inline-block; width: 450px;"></span>
+    <span id=date></span>
 
-<span style="display:inline-block; width: 450px;"></span>
-<img align=center src='../assets/tk.jpg' alt='alt text' width=80/>
+    <div style=margin-top:30px;></div>
 
-<div style=margin-top:50px;></div>
+    <span style="display:inline-block; width: 450px;"></span>
+    <img align=center src='../assets/tk.jpg' alt='alt text' width=80 />
 
-<b><span id=job></span></b>
-<div style=margin-top:30px;></div>
+    <div style=margin-top:50px;></div>
 
+    <span id=job></span>
+    <div style=margin-top:30px;></div>
 
-{{ content }}
+    {{ content }}
 
-<script>
-document.getElementById('company').textContent     = 'VW Group Service'
-document.getElementById('job').textContent     = 'IT Fachspezialist fachliches Anwendungsmanagement - Ingolstadt'
+    <script>
+        company = 'Bechtle Onsite Services GmbH'
+        job = 'IT Fachspezialist Serviceunterstützende Prozesse - Ingolstadt'
 
-dat = new Date()
+        job_id = document.getElementById('job')
+        document.getElementById('company').textContent = company
+        job_id.textContent = job
+        job_id.style.fontStyle = 'italic'
+        job_id.style.fontWeight = 'bold'
 
-dd = dat.getDate()
-mm = dat.getMonth() + 1
-yyyy = dat.getFullYear()
+        street = 'Bechtle Pl. 2'
+        street = ''
+        city = '74172 Neckarsulm'
+        
+        if (street) {
+            address = document.getElementById('address')
 
-if (dd < 10) { dd = '0' + dd }
+            p_element = document.createElement('span')
+            p_element.textContent = street
+            address.appendChild(p_element)
+            p_element = document.createElement('p')
+            p_element.textContent = city
+            address.appendChild(p_element)
+        }
+        
+        dat = new Date()
 
-if (mm < 10) { mm = '0' + mm }
+        dd = dat.getDate()
+        mm = dat.getMonth() + 1
+        yyyy = dat.getFullYear()
 
-dat = dd + '/' + mm + '/' + yyyy
+        if (dd < 10) { dd = '0' + dd }
 
-document.getElementById('date').textContent=dat
+        if (mm < 10) { mm = '0' + mm }
 
-</script>
+        dat = dd + '/' + mm + '/' + yyyy
+
+        document.getElementById('date').textContent = dat
+
+    </script>
 
 </body>
 

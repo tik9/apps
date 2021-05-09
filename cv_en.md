@@ -12,16 +12,16 @@ title: Timo Körner CV
 Working Experience
 --------------------
 Unix
-:   Linux  <i class="fab fa-linux"></i>  <br>
-    Bash, Debian, Sed
+:   Linux <i class="fab fa-linux"></i><br>
+    Bash 5, Debian 10, Sed 4
 
-Web
-:   Web IT  <br>
-    Css, Javascript, Jekyll, Php  
+Div
+:   Web <br>
+    (S)Css, Javascript (ECMA 6), Sql
     <br>
     <br>
 
-Hyperlinks
+Links
 --------------------
 Websites
 :   

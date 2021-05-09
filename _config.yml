@@ -2,5 +2,5 @@ name: Ti Koerner
 markdown: kramdown
 #encoding: utf-8
 livereload: True
-livereload_min_delay: 5
+livereload_min_delay: 10
 
