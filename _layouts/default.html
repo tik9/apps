@@ -1,76 +1,78 @@
 <html>
+  <head>
+    <link href="assets/favicon.png" rel="icon" />
+  </head>
 
-<head>
-<link href="assets/favicon.png" rel=icon />
-</head>
-
-<body>
+  <body>
     <div>Timo Körner</div>
-    Bergstrasse 15, 85120 Hepberg, Deutschland, Tel.: +49(0)1573 9598 220
-    <div style=margin-top:50px;></div>
+    Bergstrasse 15, 85120 Hepberg, Deutschland, +49(0)170 5341191
+    <div style="margin-top: 50px"></div>
 
-    <span id=company></span><br>
+    <span id="company"></span><br />
     HR
-    <div id=address></div>
+    <div id="address"></div>
 
-    <div style=margin-top:50px;></div>
+    <div style="margin-top: 50px"></div>
 
-    <span style="display:inline-block; width: 450px;"></span>
-    <span id=date></span>
+    <span style="display: inline-block; width: 450px"></span>
+    <span id="date"></span>
 
-    <div style=margin-top:30px;></div>
+    <div style="margin-top: 30px"></div>
 
-    <span style="display:inline-block; width: 450px;"></span>
-    <img align=center src='../assets/tk.jpg' alt='alt text' width=80 />
+    <span style="display: inline-block; width: 450px"></span>
+    <img align="center" src="../assets/tk.jpg" alt="alt text" width="80" />
 
-    <div style=margin-top:50px;></div>
+    <div style="margin-top: 50px"></div>
 
-    <span id=job></span>
-    <div style=margin-top:30px;></div>
+    <span id="job"></span>
+    <div style="margin-top: 30px"></div>
 
     {{ content }}
 
     <script>
-        company = 'Bechtle Onsite Services GmbH'
-        job = 'IT Fachspezialist Serviceunterstützende Prozesse - Ingolstadt'
+      company = 'Stadt Ingolstadt'
+      job = 'IT-Benutzerbetreuer Lehrerdienstgeräte';
 
-        job_id = document.getElementById('job')
-        document.getElementById('company').textContent = company
-        job_id.textContent = job
-        job_id.style.fontStyle = 'italic'
-        job_id.style.fontWeight = 'bold'
+      job_id = document.getElementById('job');
+      document.getElementById("company").textContent = company;
+      job_id.textContent = job;
+      job_id.style.fontStyle = "italic";
+      job_id.style.fontWeight = "bold";
 
-        street = 'Bechtle Pl. 2'
-        street = ''
-        city = '74172 Neckarsulm'
+      street = ''
+      city = 'ingolstadt'
+
+      address = document.getElementById("address");
+      if (street) {
+        p_element = document.createElement("span");
+        p_element.textContent = street;
+        address.appendChild(p_element);
         
-        if (street) {
-            address = document.getElementById('address')
+      }
 
-            p_element = document.createElement('span')
-            p_element.textContent = street
-            address.appendChild(p_element)
-            p_element = document.createElement('p')
-            p_element.textContent = city
-            address.appendChild(p_element)
-        }
-        
-        dat = new Date()
+      p_element = document.createElement("p");
+      city= city[0].toUpperCase() + city.slice(1);
 
-        dd = dat.getDate()
-        mm = dat.getMonth() + 1
-        yyyy = dat.getFullYear()
+      p_element.textContent = capitalize(city)
+      address.appendChild(p_element);
 
-        if (dd < 10) { dd = '0' + dd }
+      dat = new Date();
 
-        if (mm < 10) { mm = '0' + mm }
+      dd = dat.getDate();
+      mm = dat.getMonth() + 1;
+      yyyy = dat.getFullYear();
 
-        dat = dd + '/' + mm + '/' + yyyy
+      if (dd < 10) {
+        dd = "0" + dd;
+      }
 
-        document.getElementById('date').textContent = dat
+      if (mm < 10) {
+        mm = "0" + mm;
+      }
 
+      dat = dd + "/" + mm + "/" + yyyy;
+
+      document.getElementById("date").textContent = dat;
     </script>
-
-</body>
-
+  </body>
 </html>
