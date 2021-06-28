@@ -5,7 +5,7 @@
 
   <body>
     <div>Timo Körner</div>
-    Bergstrasse 15, 85120 Hepberg, Deutschland, +49(0)170 5341191
+    Bergstrasse 15, 85120 Hepberg, Deutschland, +49 (0) 170 534 1191
     <div style="margin-top: 50px"></div>
 
     <span id="company"></span><br />
@@ -30,31 +30,43 @@
     {{ content }}
 
     <script>
-      company = 'Stadt Ingolstadt'
-      job = 'IT-Benutzerbetreuer Lehrerdienstgeräte';
+      const toTitleCase = (phrase) => {
+        return phrase
+          .toLowerCase()
+          .split('')
+          .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+          .join('');
+      };
 
-      job_id = document.getElementById('job');
+      company = "stadt ingolstadt";
+      job = "iT - Benutzerbetreuer lehrerdienstgeräte";
+      company = toTitleCase(company)
+
+      console.log(company);
+      job=toTitleCase(job)
+      
+      job_id = document.getElementById("job");
       document.getElementById("company").textContent = company;
       job_id.textContent = job;
       job_id.style.fontStyle = "italic";
       job_id.style.fontWeight = "bold";
 
-      street = ''
-      city = 'ingolstadt'
+      street = "rathausplatz 4";
+      city = "85049 ingolstadt";
 
       address = document.getElementById("address");
       if (street) {
-        p_element = document.createElement("span");
-        p_element.textContent = street;
-        address.appendChild(p_element);
-        
+        street=toTitleCase(street)
+        p_elem = document.createElement("span");
+        p_elem.textContent = street;
+        address.appendChild(p_elem);
       }
 
-      p_element = document.createElement("p");
-      city= city[0].toUpperCase() + city.slice(1);
+      p_elem = document.createElement("p");
+      city = toTitleCase(city)
 
-      p_element.textContent = capitalize(city)
-      address.appendChild(p_element);
+      p_elem.textContent = city;
+      address.appendChild(p_elem);
 
       dat = new Date();
 

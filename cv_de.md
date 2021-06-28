@@ -4,7 +4,7 @@ title: Timo Körner CV
 
 # {{ page.title }}
 
-> Bergstrasse 15, 85120 Hepberg, +49(0)170 5341191 <span style="display:inline-block; width: 50px;"></span>[Website](https://tik9.github.io/public)
+> Bergstrasse 15, 85120 Hepberg, +49(0) 170 534 1191 <span style="display:inline-block; width: 50px;"></span>[Website](https://tik9.github.io)
 
 -----------
 <br>
@@ -12,19 +12,25 @@ title: Timo Körner CV
 Praktische Erfahrung
 --------------------
 Windows
-:   Office - Excel, Access, Outlook, VBA, Konfiguration, Anwendungsbetreuung
+: Office<br>
+MS Excel, Access, Outlook, VBA, Konfiguration, Anwendungsbetreuung
+<br><br>
 
-Mobile Device Management
+Mobile Devices
 :   Softwareverteilung mit Baramundi
+<br><br>
 
-IP Netzwerke - Soft- und Hardware
-: Wlan und LAN - Switche, DHCP, DNS
+IP Netzwerke
+: Wlan und LAN<br>
+Routing, Switches, DHCP, DNS
+<br><br>
 
 Unix
 :   Linux<br>
     Bash 5, Debian 10
+<br><br>
 
-Div
+Weitere
 :   Web <br>
     Javascript (ECMA 6), Sql
     <br>
