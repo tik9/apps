@@ -4,7 +4,7 @@ title: Timo Körner CV
 
 # {{ page.title }}
 
-> Bergstrasse 15, 85120 Hepberg, DE, +49(0)170 5341191 <span style="display:inline-block; width: 50px;"></span> &emsp;[Website](https://tik9.github.io/public)
+> Bergstrasse 15, 85120 Hepberg, DE, T: +49(0)170 5341191 <span style="display:inline-block; width: 50px;"></span> &emsp;[Website](https://tik9.github.io/public)
 
 -----------
 <br>
@@ -15,12 +15,11 @@ Unix
 :   Linux
     Bash 5, Debian 10
 
-IP Network - Soft- and Hardware
+IP Network
 : Wifi and LAN - Switches, DHCP, DNS, Routing
 
 Div
-:   Web <br>
-    (S)Css, Javascript (ECMA 6), Sql
+: (S)Css, Javascript (ECMA 6) client- and serverside, Sql
     <br>
     <br>
 
@@ -39,7 +38,7 @@ Education
 
 Business
 :   Master in Management, [Website](https://www.uni-bamberg.de) (Bamberg, DE)<br>
-    Controlling, Business English and Business IT (Databases, MS Excel)
+    Controlling, Business English and Business IT (Databases, MS Excel and VBA)
 <br>
 <br>
 
@@ -48,16 +47,11 @@ Tools
 
 Tool | Usage (years)
 :-- | :-
-Git | 1,5
+Git | 1
 Javascript |1
 MySql | 1
 Powershell | 1
 Python  | 1           
 {:.table-striped .table-bordered}
-
-<span style="display:inline-block; width: 350px;"></span>
-{::nomarkdown}
-{:/}
-
 
 <link rel="stylesheet" href='css/cv_main.css'>
