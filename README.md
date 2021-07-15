@@ -3,9 +3,9 @@
 My personal applications
 
 ### Steps to reach Goal
-- Use Markdown
-- Use a template
-- Javascript for data like date
+1. Use plain Markdown
+2. Use a Jekyll template
+3. Javascript for dynamic changing data like date and company address
 
 ### Tools used
 - Vscode
@@ -13,5 +13,5 @@ My personal applications
 
 ### Contents
 
-- [Default](_layouts/default.html)
-- [Cv](cv_en.md)
+- [Default Layout](_layouts/default.html)
+- [Cv Markdown](cv_en.md)
