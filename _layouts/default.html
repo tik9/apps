@@ -1,68 +1,72 @@
 <html>
   <head>
-    <link href='assets/favicon.png' rel='icon' />
+    <link href="assets/favicon.png" rel="icon" />
   </head>
 
   <body>
     <div>Timo Körner</div>
-    Bergstrasse 15, 85120 Hepberg, Deutschland, +49 (0) 170 534 1191
-    <div style='margin-top: 50px'></div>
+    Bergstrasse 15, 85120 Hepberg, Deutschland, +49 (0) 1573 9598 220
+    <div style="margin-top: 50px"></div>
 
-    <span id='company'></span><br />
+    <span id="company"></span><br />
     HR
-    <div id='address'></div>
+    <div id="address"></div>
 
-    <div style='margin-top: 50px'></div>
+    <div style="margin-top: 50px"></div>
 
-    <span style='display: inline-block; width: 450px'></span>
-    <span id=date></span>
+    <span style="display: inline-block; width: 450px"></span>
+    <span id="date"></span>
 
-    <div style='margin-top: 30px'></div>
+    <div style="margin-top: 30px"></div>
 
-    <span style='display: inline-block; width: 450px'></span>
+    <span style="display: inline-block; width: 450px"></span>
     <img align=center src=../assets/tk.jpg alt='alt text' width=80 />
 
-    <div style='margin-top: 50px'></div>
+    <div style="margin-top: 50px"></div>
 
-    <span id=job></span>
-    <div style='margin-top: 30px'></div>
+    <span id="job"></span>
+    <div style="margin-top: 30px"></div>
 
     {{ content }}
 
     <script>
-      const toTitleCase = (phrase) => {
-        return phrase
+      const toTitleCase = (word) => {
+        return word
           .toLowerCase()
           .split('')
           .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
           .join('');
       };
+      website =
+        ''
 
-      company = ''
-      job = ''
+      company = 'ep';
+      // company='Technische Hochschule Ingolstadt'
+
+      job = 'IT-Administrator'
       company = toTitleCase(company);
 
-      console.log(company);
+      // console.log(company);
       job = toTitleCase(job);
 
-      job_id = document.getElementById('job');
-      document.getElementById('company').textContent = company;
+      job_id = document.getElementById("job");
+      document.getElementById("company").textContent = company;
       job_id.textContent = job;
-      job_id.style.fontStyle = 'italic';
-      job_id.style.fontWeight = 'bold';
+      job_id.style.fontStyle = "italic";
+      job_id.style.fontWeight = "bold";
 
-      street = ''
-      city = ''
+      street = "";
+      city = "";
 
-      address = document.getElementById('address');
+      address = document.getElementById("address");
       if (street) {
         street = toTitleCase(street);
-        p_elem = document.createElement('span');
+        p_elem = document.createElement("span");
         p_elem.textContent = street;
         address.appendChild(p_elem);
       }
 
-      p_elem = document.createElement('p');
+      p_elem = document.createElement("p");
       city = toTitleCase(city);
 
       p_elem.textContent = city;
@@ -75,16 +79,16 @@
       yyyy = dat.getFullYear();
 
       if (dd < 10) {
-        dd = '0' + dd;
+        dd = "0" + dd;
       }
 
       if (mm < 10) {
-        mm = '0' + mm;
+        mm = "0" + mm;
       }
 
-      dat = dd + '/' + mm + '/' + yyyy;
+      dat = dd + "/" + mm + "/" + yyyy;
 
-      document.getElementById('date').textContent = dat;
+      document.getElementById("date").textContent = dat;
     </script>
   </body>
 </html>

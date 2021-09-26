@@ -4,7 +4,7 @@ title: Timo Körner CV
 
 # {{ page.title }}
 
-> Bergstrasse 15, 85120 Hepberg, DE, T: +49(0)170 5341191 <span style="display:inline-block; width: 50px;"></span> &emsp;[Website](https://tik9.github.io/public)
+> Bergstrasse 15, 85120 Hepberg, DE, T: +49 (0) 1573 9598 220 <span style="display:inline-block; width: 50px;"></span> &emsp;[Website](http://tik1.net)
 
 -----------
 <br>
@@ -19,7 +19,7 @@ IP Network
 : Wifi and LAN - Switches, DHCP, DNS, Routing
 
 Div
-: (S)Css, Javascript (ECMA 6) client- and serverside, Sql
+: Powershell, Python, Sql, VBA
     <br>
     <br>
 

@@ -20,9 +20,9 @@ das können Sie von mir erwarten, sollten Sie mich für die im Betreff ausgeschr
 - Bereitschaft zur kontinuierlichen Fortbildung
 
 
-Ich bin bei der Bechtle AG zunächst über einen Dienstleister und seit kurzem direkt im Bereich Service Unterstützende Prozesse (2nd Level) tätig.
+Ich bin bei der Bechtle befristet im Bereich 2nd Level Problemmanagement Windows angestellt.
 
-Ich suche eine Tätigkeit in Teilzeit.
+Ich suche eine Tätigkeit mit 30 Wochenstunden, da ich Familie und ein Kind habe.
 
 Auf der Suche nach einer neuen, stabilen und langfristigen Herausforderung würde ich mich über eine baldige Nachricht freuen.
 &nbsp;
