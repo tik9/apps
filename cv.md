@@ -18,8 +18,11 @@ Unix
 IP Network
 : Wifi and LAN - Switches, DHCP, DNS, Routing
 
+Windows
+: User Support on Office 365
+
 Div
-: Powershell, Python, Sql, VBA
+: Javascript and Python
     <br>
     <br>
 
@@ -49,8 +52,7 @@ Tool | Usage (years)
 :-- | :-
 Git | 1
 Javascript |1
-MySql | 1
-Powershell | 1
+MongoDb | 1
 Python  | 1           
 {:.table-striped .table-bordered}
 

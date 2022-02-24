@@ -13,9 +13,9 @@ das können Sie von mir erwarten, sollten Sie mich für die ausgeschriebene Posi
 &nbsp;
 
 Ich bin bei einem IT Dienstleister im Bereich 2nd Level Problemmanagement Windows für einen Autohersteller in Vollzeit angestellt, davor war ich bei Puro Personal GmbH für die Bechtle AG tätig - siehe beigefügtes Zeugnis.
-Eine Tätigkeit ist die Automatisierung des Fehlerberichts von Softwareinstallationen mit VBA und Excel Pivot - Restmengenbetrachtungen.
+Eine aktuelle Tätigkeit ist die Automatisierung des Fehlerberichts von Softwareinstallationen mit VBA und Excel Pivot - Restmengenbetrachtungen.
 
-Ich suche eine Remote Tätigkeit mit 30 Wochenstunden, da ich Familie und Kind habe.
+Ich suche eine überwiegend Remote Tätigkeit mit 30 Wochenstunden, da ich Familie und Kind habe.
 
 Ich bin kurzfristig verfügbar.  
 &nbsp;
