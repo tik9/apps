@@ -1,56 +1,47 @@
 const toTitleCase = (word) => {
     return word
-      .toLowerCase()
-      .split('')
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-      .join('')
-  }
+        .toLowerCase()
+        .split('')
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join('')
+}
 
-  website =''
-  company = ''
+document.getElementById("mobile").textContent = mobile
+document.getElementById("company").textContent = toTitleCase(company)
+document.getElementById("own_address").textContent = own_address
+var job_id = document.getElementById("job")
+job_id.textContent = toTitleCase(job)
+job_id.style.fontStyle = "italic"
+job_id.style.fontWeight = "bold"
 
-  job = ''
-  company = toTitleCase(company)
+var street = ""
+var city = ""
 
-  job = toTitleCase(job)
-
-  job_id = document.getElementById("job")
-  document.getElementById("company").textContent = company
-  job_id.textContent = job
-  job_id.style.fontStyle = "italic"
-  job_id.style.fontWeight = "bold"
-
-  street = ""
-  city = ""
-
-  address = document.getElementById("address")
-  if (street) {
-    street = toTitleCase(street)
-    p_elem = document.createElement("span")
-    p_elem.textContent = street
+var address = document.getElementById("address")
+if (street) {
+    var p_elem = document.createElement("span")
+    p_elem.textContent = toTitleCase(street)
     address.appendChild(p_elem)
-  }
+}
 
-  p_elem = document.createElement("p")
-  city = toTitleCase(city)
+var p_elem = document.createElement("p")
+p_elem.textContent = toTitleCase(city)
+address.appendChild(p_elem)
 
-  p_elem.textContent = city
-  address.appendChild(p_elem)
+var dat = new Date()
 
-  dat = new Date()
+var dd = dat.getDate()
+var mm = dat.getMonth() + 1
+var yyyy = dat.getFullYear()
 
-  dd = dat.getDate()
-  mm = dat.getMonth() + 1
-  yyyy = dat.getFullYear()
-
-  if (dd < 10) {
+if (dd < 10) {
     dd = "0" + dd
-  }
+}
 
-  if (mm < 10) {
+if (mm < 10) {
     mm = "0" + mm
-  }
+}
 
-  dat = dd + "/" + mm + "/" + yyyy
+var dat = dd + "." + mm + "." + yyyy
 
-  document.getElementById("date").textContent = dat
+document.getElementById("date").textContent = dat

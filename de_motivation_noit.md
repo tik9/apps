@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: motivation
 ---
 
 Sehr geehrte Damen und Herren,

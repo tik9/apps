@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: motivation
 ---
 
 To whom it may concern
