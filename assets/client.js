@@ -6,27 +6,27 @@ const toTitleCase = (word) => {
         .join('')
 }
 
-document.getElementById("mobile").textContent = mobile
+
 document.getElementById("company").textContent = toTitleCase(company)
-document.getElementById("own_address").textContent = own_address
 var job_id = document.getElementById("job")
 job_id.textContent = toTitleCase(job)
 job_id.style.fontStyle = "italic"
 job_id.style.fontWeight = "bold"
 
-var street = ""
-var city = ""
 
 var address = document.getElementById("address")
-if (street) {
-    var p_elem = document.createElement("span")
-    p_elem.textContent = toTitleCase(street)
-    address.appendChild(p_elem)
+if (typeof street != 'undefined') {
+    var p_street = document.createElement("span")
+    p_street.textContent = toTitleCase(street)
+    address.appendChild(p_street)
 }
-
-var p_elem = document.createElement("p")
-p_elem.textContent = toTitleCase(city)
-address.appendChild(p_elem)
+if (typeof email != 'undefined') {
+    var email_id = document.getElementById("email")
+    email_id.textContent = email
+}
+var p_city = document.createElement("p")
+p_city.textContent = toTitleCase(city)
+address.appendChild(p_city)
 
 var dat = new Date()
 

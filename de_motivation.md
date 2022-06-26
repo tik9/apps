@@ -2,27 +2,12 @@
 layout: motivation
 ---
 
-Sehr geehrte Damen und Herren,
-
-das können Sie von mir erwarten, sollten Sie mich für die ausgeschriebene Position auswählen:
-&nbsp;
-
 - abgeschlossenes BWL Studium
-- Bereitschaft, mich in verschiedene neue Themen einzuarbeiten
+- Bereitschaft, mich in verschiedene neue IT Themen einzuarbeiten
+- mehrjährige Erfahrung in der Administration von Windows und Linux-Betriebssystemen
+- Kenntnisse in Netzwerktechnik (TCP/IP)
+- anwendungsbereites Wissen in MS-Exchange und Debian-Server
+- Kenntnisse in VMWare und Oracle Virtualbox
+- Kenntnisse in Javascript sowie SQL
 - strukturierte und selbstständige Arbeitsweise, aktiver [Entwickler](https://stackexchange.com/users/1886776/timo?tab=activity)
 &nbsp;
-
-Ich bin bei einem IT Dienstleister im Bereich 2nd Level Problemmanagement Windows für einen Autohersteller in Vollzeit angestellt, davor war ich bei Puro Personal GmbH für die Bechtle AG tätig - siehe beigefügtes Zeugnis.
-Eine Tätigkeit ist die Automatisierung des Fehlerberichts von Softwareinstallationen mit Sql, VBA und Excel Pivot - Restmengenbetrachtungen.
-
-Ich suche eine überwiegend Remote Tätigkeit mit 30 Wochenstunden, da ich Familie und Kind habe. Mein derzeitiger Arbeitgeber ermöglicht mir das nicht.
-
-Montag bis Donnerstag bin ich voll verfügbar, die Freitage möchte ich mir selbst einteilen können.
-
-Ich bin kurzfristig verfügbar.  
-&nbsp;
-
-Mit freundlichen Grüßen  
-&nbsp;
-
-Timo Körner
