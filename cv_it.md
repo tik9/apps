@@ -42,22 +42,16 @@ Business
 <br>
 <br>
 
-Informatics
-:   Diploma in IT for the public administration, [Website](https://www.hof-university.de/studieninteressierte/studienangebot/verwaltungsinformatik-dipl.html) (Hof, De)<br>
-    Informatics, Public Administration, Informatics for the Public Administration
-<br>
-<br>
-
 Tools
 ------------
 
-Tool | Usage (years)
-:-- | :-
-Git | 1
-Javascript |1
-MySql | 1
-Powershell | 1
-Python  | 1           
+| Tool       | Usage (years) |
+| :--------- | :------------ |
+| Git        | 1             |
+| Javascript | 1             |
+| MySql      | 1             |
+| Powershell | 1             |
+| Python     | 1             |
 {:.table-striped .table-bordered}
 
 <link rel="stylesheet" href='css/cv_main.css'>

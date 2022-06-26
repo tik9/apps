@@ -10,4 +10,3 @@ layout: motivation
 - Kenntnisse in VMWare und Oracle Virtualbox
 - Kenntnisse in Javascript sowie SQL
 - strukturierte und selbstständige Arbeitsweise, aktiver [Entwickler](https://stackexchange.com/users/1886776/timo?tab=activity)
-&nbsp;
