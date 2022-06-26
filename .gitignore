@@ -1,4 +1,4 @@
 _site
 .jekyll-cache
 ignored
-assets/js/env.js
+# assets/js/env.js

@@ -2,15 +2,11 @@
 layout: motivation
 ---
 
-- Kommunikations- und Problemlösefähigkeit
-- Vertiefte Kenntnisse in der IT-Anwenderbetreuung (Hardware, Software, Netzwerk)
-- Kenntnisse in Client Hardware (Notebooks, Workstations, Mobile Devices und PCs)
-- Kenntnisse in Windows Client Betriebssystemen
-- Kenntnisse in MS Office, insbesondere Excel für unterschiedliche Betrachtungen
+- abgeschlossenes Hochschulstudium im Bereich Betriebswirtschaftslehre
+- Teamfähigkeit und Dienstleistungsorientierung
 - Strukturierte und selbstständige Arbeitsweise
-- Gute Englischkenntnisse
-- Führerschein der Klasse B
 - Bereitschaft zur kontinuierlichen Fortbildung
-
+- Erfahrung in der Analyse, Konzeption und Realisierung komplexer Lösungen, mit Vorgangsbearbeitungssystemen gemäß ITIL und IT-Infrastruktur
+- Kenntnis einer modernen IT-Infrastruktur einschließlich Infrastrukturmanagement im Automotive Bereich
 
 
