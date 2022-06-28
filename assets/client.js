@@ -1,15 +1,11 @@
 const toTitleCase = (word) => {
-    return word
-        .toLowerCase()
-        .split('')
-        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-        .join('')
+    return word.charAt(0).toUpperCase() + word.slice(1)
 }
 
 
-document.getElementById("company").textContent = toTitleCase(company)
+document.getElementById("company").textContent = company
 var job_id = document.getElementById("job")
-job_id.textContent = toTitleCase(job)
+job_id.textContent = job
 job_id.style.fontStyle = "italic"
 job_id.style.fontWeight = "bold"
 
@@ -20,13 +16,9 @@ if (typeof street != 'undefined') {
     p_street.textContent = toTitleCase(street)
     address.appendChild(p_street)
 }
-if (typeof email != 'undefined') {
-    var email_id = document.getElementById("email")
-    email_id.textContent = email
-}
-var p_city = document.createElement("p")
-p_city.textContent = toTitleCase(city)
-address.appendChild(p_city)
+if (typeof email != 'undefined') { document.getElementById("email").textContent = email }
+
+address.appendChild(document.createElement("p").textContent = city)
 
 var dat = new Date()
 

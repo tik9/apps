@@ -1,17 +1,17 @@
 
 ### Goal
-My personal applications
+Create automated applications for jobs in IT
 
 ### Steps to reach Goal
-1. Use plain Markdown
-2. Use a Jekyll template
-3. Javascript for dynamic changing data like date and company address
+1. plain Markdown
+2. Jekyll template
+3. Javascript for changing data like date and company address
 
 ### Tools used
-- Vscode
-- Jekyll - a Ruby framework
+- Jekyll - a Ruby framework for static sites generation
+- Netlify and Github Pages for production
 
 ### Contents
 
-- [Default Layout](_layouts/default.html)
-- [Cv Markdown](cv_en.md)
+- [Layout](_layouts/motivation.html)
+- [Cv](cv.html)
