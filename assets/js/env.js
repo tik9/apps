@@ -1,5 +1,5 @@
 
-var job = 'Mitarbeiter im IT-Projektmanagement'
-var company = 'Deutsches Patent- und Markenamt'
-var city = "80297 München"
-var email = 'Bewerbung@dpma.de'
+var job = 'Web-Entwickler'
+var company = 'Technische Hochschule Ingolstadt'
+var city = "85049 Ingolstadt"
+var email = ''
