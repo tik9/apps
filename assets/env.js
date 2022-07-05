@@ -1,5 +1,5 @@
 
-var job = 'Business Development Representative'
-var company = 'Netlify'
-var city = 'Remote'
+var job = 'IT Projektmanager'
+var company = 'sonnen GmbH'
+var city = 'Berlin'
 var email = ''

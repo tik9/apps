@@ -3,10 +3,13 @@ layout: motivation
 ---
 
 - abgeschlossenes Hochschulstudium im Bereich Betriebswirtschaftslehre
-- Teamfähigkeit und Dienstleistungsorientierung
-- Strukturierte und selbstständige Arbeitsweise
-- Bereitschaft zur kontinuierlichen Fortbildung
-- Erfahrung in der Analyse, Konzeption und Realisierung komplexer Lösungen, mit Vorgangsbearbeitungssystemen gemäß ITIL und IT-Infrastruktur
-- Kenntnis einer modernen IT-Infrastruktur einschließlich Infrastrukturmanagement im Automotive Bereich
+- Umfangreiche Erfahrung einschließlich IT Projektmanagement und ITIL
+- Theorievertrautheit mit Schwerpunkt auf der Praxis
+- Erfahrungen, um methodisch und trotzdem pragmatisch Ziele zu erreichen
+- Spaß an der Arbeit mit Menschen: offene, kommunikative Art
+- gewohnt, fast alles in Frage zu stellen, Verbesserungen voranzutreiben und Neues mit Leichtigkeit anzunehmen
+- kommuniziere auf Deutsch und Englisch in jeder Form
+- treffe meistens den richtigen Ton - bei der Vorstandspräsentation wie im Daily Meeting
+- Freude an der Arbeit in einem diversen und internationalen Umfeld - von Afrika bis Zypern
 
 

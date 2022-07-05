@@ -9,7 +9,7 @@ Create automated applications for jobs in IT
 
 ### Tools used
 - Jekyll - a Ruby framework for static sites generation
-- Netlify and Github Pages for production
+- Netlify (and Github Pages) for production
 
 ### Contents
 
