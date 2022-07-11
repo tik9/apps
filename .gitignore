@@ -1,4 +1,5 @@
 _site
 .jekyll-cache
 ignored
-# assets/js/env.js
+Gemfile
+Gemfile.lock
