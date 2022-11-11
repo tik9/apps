@@ -2,10 +2,9 @@
 type: moti_de
 ---
 
-- abgeschlossenes BWL Studium
-- Abgeschlossenes Verwaltungs-Informatik Studium
-- Erfahrungen in der Lehre (Tutor im Studienkreis)
-- Interesse an aktuellen Entwicklungen, Technologien, Digitalisierung und der Erstellung multimedialer Lehrmaterialien
+- abgeschlossenes BWL und Verwaltungs-Informatik Studium
+- Erfahrungen in der Lehre (Online-Tutor im Studienkreis) für Mathematik, Programmierung und Statistik
+- Interesse an Entwicklungen und Technologien der Digitalisierung und an der Erstellung multimedialer Lehrmaterialien
 - Gute Englischkenntnisse in Wort und Schrift
 - Initiative, Kreativität und Kommunikation mit Menschen aus verschiedenen Fachrichtungen
-- Aktiver [Entwickler](https://stackexchange.com/users/1886776/timo?tab=activity)
+- [Interesse an Software](https://stackexchange.com/users/1886776/timo?tab=activity)

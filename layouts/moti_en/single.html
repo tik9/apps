@@ -1,52 +1,17 @@
-<html>
+{{ partial "head.html" . }}
 
-<head>
-  <link href="/favicon.png" rel="icon" />
-</head>
+<p> To whom it may concern:</p>
+<p>
+  I line up my strengths for the above mentioned job: </p>
 
-<body>
-  <div>Timo Körner</div>
-  Bergstraße 15, 85120 Hepberg, Germany
-  <div style="margin-top: 50px"></div>
+{{ .Content }}
 
-  <span id="company"></span><br />
-  HR
-  <div id="city"></div>
-  <div id="email"></div>
+I am working in second level IT support for a german car manufacturing company using ITIL.
 
-  <div style="margin-top: 50px"></div>
+I do presentations and lead meetings on current client and server problems together with customers and stakeholders.
 
-  <span style="display: inline-block; width: 450px"></span>
-  <span id="date"></span>
+<p> I can start as soon as needed.</p>
 
-  <div style="margin-top: 30px"></div>
+<p>Sincerely</p>
 
-  <span style="display: inline-block; width: 450px"></span>
-  <img align=center src=/tk.jpg alt='alt text' width=80 />
-
-  <div style="margin-top: 50px"></div>
-
-  <span id="job"></span>
-  <div style="margin-top: 30px"></div>
-
-  <p> To whom it may concern:</p>
-  <p>
-    I line up my strengths for the above mentioned job: </p>
-
-  {{ .Content }}
-
-  I am working in second level IT support for a german car manufacturing company using ITIL.
-
-  I do presentations and lead meetings on current client and server problems together with customers and stakeholders.
-
-  <p> I can start as soon as needed.</p>
-
-  <p>Sincerely</p>
-
-  Timo Körner
-
-  <script src="/env.js"></script>
-  <script src="/client.js"></script>
-</body>
-
-</html>
+{{ partial "foot.html" . }}
