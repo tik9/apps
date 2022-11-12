@@ -3,7 +3,7 @@ type: moti_de
 ---
 
 - abgeschlossenes Hochschulstudium in BWL
-- Erfahrung in der Entwicklung interaktiver [Web-Applikationen](http://tik1.net)
+- Erfahrung in der Entwicklung interaktiver [Web-Applikationen](http://tik2.netlify.app)
 - [Interesse an Software](https://stackexchange.com/users/1886776/timo?tab=activity)
 - Selbständige und strukturierte Arbeitsweise und Lernbereitschaft
 - Gutes Englisch

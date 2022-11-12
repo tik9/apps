@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tiko</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tik9.github.io/</link>
     <description>Recent content on tiko</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tik9.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/moti_de/</link>
+      <link>https://tik9.github.io/moti_de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moti_de/</guid>
-      <description> abgeschlossenes BWL Studium Abgeschlossenes Verwaltungs-Informatik Studium Erfahrungen in der Lehre (Tutor im Studienkreis) Interesse an aktuellen Entwicklungen, Technologien, Digitalisierung und der Erstellung multimedialer Lehrmaterialien Gute Englischkenntnisse in Wort und Schrift Initiative, Kreativität und Kommunikation mit Menschen aus verschiedenen Fachrichtungen Aktiver Entwickler </description>
+      <guid>https://tik9.github.io/moti_de/</guid>
+      <description> abgeschlossenes BWL und Verwaltungs-Informatik Studium Erfahrungen in der Lehre (Online-Tutor im Studienkreis) für Mathematik, Programmierung und Statistik Interesse an Entwicklungen und Technologien der Digitalisierung und an der Erstellung multimedialer Lehrmaterialien Gute Englischkenntnisse in Wort und Schrift Initiative, Kreativität und Kommunikation mit Menschen aus verschiedenen Fachrichtungen Interesse an Software </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/moti_de2/</link>
+      <link>https://tik9.github.io/moti_de2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moti_de2/</guid>
-      <description> abgeschlossenes Hochschulstudium in BWL Erfahrung in der Entwicklung interaktiver Web-Applikationen Aktiver Entwickler Selbständige und strukturierte Arbeitsweise und Lernbereitschaft Gutes Englisch Interesse an den Herausforderungen von Schüler*innen und Studierenden Interesse an Bildung, Chancen moderner Technologie und der Serlo Vision </description>
+      <guid>https://tik9.github.io/moti_de2/</guid>
+      <description> abgeschlossenes Hochschulstudium in BWL Erfahrung in der Entwicklung interaktiver Web-Applikationen Interesse an Software Selbständige und strukturierte Arbeitsweise und Lernbereitschaft Gutes Englisch Interesse an den Herausforderungen von Schüler*innen und Studierenden Interesse an Bildung, Chancen moderner Technologie und der Serlo Vision </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/moti_en/</link>
+      <link>https://tik9.github.io/moti_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moti_en/</guid>
+      <guid>https://tik9.github.io/moti_en/</guid>
       <description> am an active developer in JS with 5 years experience in software development several years experience in a customer-facing technical role Proven track record of working with various customers </description>
     </item>
     
     <item>
       <title>Timo Körner CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://tik9.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://tik9.github.io/cv/</guid>
       <description>{{ page.title }} Website
 Working Experience Unix Linux Bash 5, Debian 10 IP Network Wifi and LAN - Switches, DHCP, DNS, Routing Windows User Support on Office 365 Div Javascript and Python Links Websites Github LinkedIn Stackoverflow Education Business Master in Management, Website (Bamberg, DE) Controlling, Business English and Business IT (Databases, MS Excel and VBA) Tools Tool Usage (years) Git 1 Javascript 1 MongoDb 1 Python 1 {:.table-striped .table-bordered} </description>
     </item>
     
     <item>
       <title>Timo Körner CV</title>
-      <link>http://localhost:1313/cv_it/</link>
+      <link>https://tik9.github.io/cv_it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv_it/</guid>
+      <guid>https://tik9.github.io/cv_it/</guid>
       <description>{{ page.title }} Bergstrasse 15, 85120 Hepberg, DE, T: +49 (0) 1573 9598 220 Website
 Working Experience Unix Linux Bash 5, Debian 10 IP Network Wifi and LAN - Switches, DHCP, DNS, Routing Div Powershell, Python, Sql, VBA Links Websites Github LinkedIn Stackoverflow Education Business Master in Management, Website (Bamberg, DE) Controlling, Business English and Business IT (Databases, MS Excel and VBA) Tools Tool Usage (years) Git 1 Javascript 1 MySql 1 Powershell 1 Python 1 {:.</description>
     </item>
     
     <item>
       <title>Timo Körner CV</title>
-      <link>http://localhost:1313/cv_proj/</link>
+      <link>https://tik9.github.io/cv_proj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv_proj/</guid>
+      <guid>https://tik9.github.io/cv_proj/</guid>
       <description>{{ page.title }} Bergstrasse 15, 85120 Hepberg, DE, T: +49 (0) 1573 9598 220 Website
 Working Experience Project ITIL based IT projects for a car manufacturing company - currently employed IT MS Windows and Office Support - mainly MS Excel - for companies and organisations Teaching Face to Face and remote classes in IT, Economics and Statistics for students and young adults Links Websites LinkedIn Education Business Master in Management, Website (Bamberg, DE) Controlling, Business English and Business IT (Databases, MS Excel and VBA) Tools Task Done in years Process-/Projectmanagement 5 Problemmanagement 1 IT Systemadministration 4 Teaching 10 {:.</description>
     </item>

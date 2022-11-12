@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tiko</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://tik9.github.io/tags/</link>
     <description>Recent content in Tags on tiko</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tik9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
