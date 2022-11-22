@@ -1,26 +1,36 @@
-{{ $com := "Technische Hochschule Ingolstadt" }}
-{{$job := "Wissenschaftlicher Mitarbeiter digitale MINT-Lerneinheiten"}}
-{{$city := "85049 Ingolstadt"}}
+{{ $com := "WebTec Braun GmbH" }}
+{{$job := "Junior Webentwickler"}}
+{{$city := "Rosenheim"}}
 
 <html>
 
 <head>
     <link href="/favicon.png" rel="icon" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail" />
+
+    <style>
+        body {
+            font-family: 'roboto', sans-serif;
+        }
+
+        #yellowtail {
+            font-family: 'yellowtail', sans-serif;
+            font-size: x-large;
+        }
+    </style>
 </head>
 
 <body>
-    <div>Timo Körner</div>
+    <div id="yellowtail">Timo Körner</div>
     Bergstraße 15, 85120 Hepberg
     <div style="margin-top: 50px"></div>
 
     <span id="company">{{ printf "%s" $com }}</span><br />
     HR
     <div id="city">{{ printf "%s" $city }}</div>
-    <div id="email"></div>
 
-    <div style="margin-top: 50px"></div>
-
-    <span style="display: inline-block; width: 450px"></span>
+    <span style="margin-top: 50px;display: inline-block; width: 450px"></span>
     <span id="date"></span>
 
     <div style="margin-top: 30px"></div>

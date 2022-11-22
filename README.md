@@ -1,13 +1,46 @@
+### Goal of the repo
 
-### Goal
-Create job applications with md files and static site generation
+- Present myself as Javascript Developer
+- Show my aptitude as an Api user
+
+<br>
 
 ### Steps to reach Goal
-1. plain Markdown
-2. Jekyll template with html
-3. Javascript for changing data like current date and company address
-4. Hugo - notable fast
 
-### Tools used
-- Jekyll and Hugo
-- Github Pages for tests
+- Started with Node js, Nodemon and Express
+- Using [Heroku](https://tik9.herokuapp.com)
+- Next step: Single Page App
+- Now: Hugo in use
+
+<br>
+  
+### Tools needed while making the site
+
+- Html, Markdown and CSS
+- Javascript
+- MongoDb
+
+<br>
+
+### Contents
+
+- [Overview](/)
+- [Contact](/contact)
+
+<br>
+
+### Learned
+
+| Tool | About                 |
+| ---- | --------------------- |
+| Js   | async/await           |
+| hugo | static site generator |
+<br>
+
+### To Do
+
+ | page  | to do                                                            | done |
+ | ----- | ---------------------------------------------------------------- |
+ | menu  | menu for smartphone with three horizontal lines - hamburger menu |
+ | debug | debug env for smartphone on localhost                            |
+ 
