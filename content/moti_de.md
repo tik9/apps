@@ -2,10 +2,10 @@
 type: moti_de
 ---
 
-- abgeschlossenes BWL Studium
-- Gute Englischkenntnisse in Wort und Schrift
-- Kenntnisse in OO, PHP, Typescript, Git und JS
-- Entwicklung einer interaktiven [Website](https://tifun.netlify.app)
-
-- Interesse an [Software](https://stackexchange.com/users/1886776/timo?tab=activity) und [Tutor](https://tinh.netlify.app) für Mathe und IT
-- Qualitätsorientiertes Denken und Arbeiten
+- Abgeschlossenes BWL und Verwaltungs-Informatik Studium
+- Programmierkenntnisse in JavaScript und Static Site Generation mit Hugo und Gatsy 
+- Bereitschaft, mich in BI, DWH und Data Analytics einzuarbeiten
+- analytisches Denkvermögen und Interesse am Umgang mit Daten
+- professionelles Auftreten und Kommunikationsfähigkeit
+- fließende Deutsch- und Englischkenntnisse
+- Bereitschaft, für Kundenprojekte durch Deutschland zu reisen

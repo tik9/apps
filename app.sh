@@ -5,7 +5,7 @@ de=2_de.pdf
 en=2_en.pdf
 
 other=en
-if [[ $1 == en ]]; then other=de ;fi
+if [ $1 = en ]; then other=de ;fi
 
 function app {
     bew_final=$bewerbung/$bew.pdf
@@ -23,8 +23,6 @@ function app {
     pdfunite $bewerbung/*.pdf $bew_final
     ls -lh $bewerbung
 }
-app
-
-function start { jekyll serve --baseurl '' ;}
+# app
 
 $@

@@ -47,6 +47,5 @@ Tools
 | :--------- | :------------ |
 | Git        | 1             |
 | Javascript | 1             |
-| MySql      | 1             |
-| Powershell | 1             |
+| MongoDb    | 1             |
 | Python     | 1             |
