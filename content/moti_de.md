@@ -2,10 +2,11 @@
 type: moti_de
 ---
 
-- Abgeschlossenes BWL und Verwaltungs-Informatik Studium
-- Programmierkenntnisse in JavaScript und Static Site Generation mit Hugo und Gatsy 
-- Bereitschaft, mich in BI, DWH und Data Analytics einzuarbeiten
-- analytisches Denkvermögen und Interesse am Umgang mit Daten
-- professionelles Auftreten und Kommunikationsfähigkeit
-- fließende Deutsch- und Englischkenntnisse
-- Bereitschaft, für Kundenprojekte durch Deutschland zu reisen
+- abgeschlossenes BWL Studium
+- Erfahrung mit IT-Netzwerken und Software
+- vertiefte Kenntnisse in Microsoft (Windows 10, Office 2019)
+- hohe Serviceorien­tierung
+- Flexibilität bei der Aufgaben- und Arbeitszeitgestaltung
+- hohes Maß an Einsatzbereitschaft, Verantwortungsbewusstsein und Zuverlässigkeit
+- Führerschein der Klasse B
+- Bereitschaft zur kontinuierlichen Fortbildung

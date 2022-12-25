@@ -6,5 +6,3 @@ job_id.style.fontStyle = "italic"
 job_id.style.fontWeight = "bold"
 
 document.getElementById("city").textContent = city
-
-if (typeof email != 'undefined') document.getElementById("email").textContent = email

@@ -1,16 +1,14 @@
 ### Goal of the repo
 
-- Present myself as Javascript Developer
-- Show my aptitude as an Api user
+- Present myself as Hugo Developer
 
 <br>
 
 ### Steps to reach Goal
 
 - Started with Node js, Nodemon and Express
-- Using [Heroku](https://tik9.herokuapp.com)
-- Next step: Single Page App
-- Now: Hugo in use
+- Jekyll as SSG
+- Now: Hugo
 
 <br>
   
@@ -18,29 +16,26 @@
 
 - Html, Markdown and CSS
 - Javascript
-- MongoDb
 
 <br>
 
 ### Contents
 
 - [Overview](/)
-- [Contact](/contact)
-
+  
 <br>
 
 ### Learned
 
 | Tool | About                 |
 | ---- | --------------------- |
-| Js   | async/await           |
 | hugo | static site generator |
 <br>
 
 ### To Do
 
- | page  | to do                                                            | done |
+ | page  | to do                                                            |
  | ----- | ---------------------------------------------------------------- |
- | menu  | menu for smartphone with three horizontal lines - hamburger menu |
+ | menu  | menu for smartphone with three horizontal lines = hamburger menu |
  | debug | debug env for smartphone on localhost                            |
  

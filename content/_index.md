@@ -1,8 +1,10 @@
+---
+---
 
-#### Content
-
-- [motivation: German version](moti_de)
+- [motivation German](moti_de)
   
-- [motivation: English version](moti_en)
+- [motivation English](moti_en)
 
-- [CV](cv_it)
+- [CV de](cv_de)
+  
+- [CV en](cv_en)
