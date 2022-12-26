@@ -1,6 +1,6 @@
 ---
 title: CV
-type: cv_de
+type: cv
 ---
 
 -----------
@@ -30,9 +30,10 @@ Since 2020
 Links
 --------------------
 Cloud Websites
-: [Github](https://github.com/tik9)
-: [LinkedIn](https://www.linkedin.com/in/timo1818)
-: [Stackoverflow](https://stackexchange.com/users/1886776/timo?tab=activity)
+{{< links >}}
+
+: [github.com/tik9](https://github.com/tik9)
+: [linkedin.com/in/timo1818](https://www.linkedin.com/in/timo1818)
 : [Eigene](https://tiapps.netlify.app)
 
 Education

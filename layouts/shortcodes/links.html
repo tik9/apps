@@ -1,0 +1,20 @@
+<ul id="links">
+    <!-- <li><a href=https://github.com/tik9>github.com/tik9</a></li> -->
+    <!-- <li><a href="https://linkedin.com/in/timo1818">linkedin.com/in/timo1818</a></li> -->
+    <!-- <li><a href="https://tiapps.netlify.app">Eigene Site - tiapps.netlify.app</a></li> -->
+    <!-- <li>Stackoverflow](https://stackexchange.com/users/1886776/timo?tab=activity)</li> -->
+</ul>
+
+<script>
+    var ul = document.getElementById('links')
+    var arr = ['github.com/tik9', 'tiapps.netlify.app', 'linkedin.com/in/timo1818']
+    for (var elem of arr) {
+        var li = document.createElement('li')
+        ul.append(li)
+        var aref = document.createElement('a')
+        aref.textContent = elem
+        aref.href = 'https://' + elem
+        li.append(aref)
+        // console.log(elem)
+    }
+</script>

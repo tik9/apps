@@ -12,7 +12,7 @@ body {
 
 /* Title of the resume */
 h1 {
-    font-size: 55px;
+    font-size: 30px;
     color: #757575;
     text-align: center;
     margin-bottom: 15px;
@@ -22,7 +22,7 @@ h1 {
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 /* There is a bar just before each category */
@@ -40,20 +40,26 @@ h2:before {
 dt {
     float: left;
     clear: left;
-    width: 17%;
+    width: 20%;
     font-weight: bold;
 }
 
 dd {
-    margin-left: 17%;
+    margin-left: 20%;
     margin-bottom: 7px;
 }
 
+li {
+    font-size: 16px;
+    color: black;
+}
 
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    /* color: #397249; */
+    color: black;
+    font-weight: normal;
 }
 
 a:hover,

@@ -1,0 +1,20 @@
+<div id="tools"></div>
+
+<script>
+var tab=document.createElement('table')
+document.getElementById('tools').append(tab)
+    var arr = ['Git', 'Javascript', 'MongoDb', 'VSCode']
+    for (var elem of arr) {
+
+        var tdTool = document.createElement('td')
+        var tdYears = document.createElement('td')
+        tdYears.textContent=Math.floor(Math.random()*5)
+        var tr = document.createElement('tr')
+        tab.append(tr)
+        tdTool.textContent=elem
+        tr.append(tdTool)
+        tr.append(tdYears)
+        // console.log(elem)
+    }
+
+</script>

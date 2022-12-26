@@ -1,10 +1,9 @@
 ---
 title: CV
-type: cv_de
+type: cv
 ---
 
 -----------
-<br>
 
 Arbeitserfahrung
 --------------------
@@ -24,11 +23,8 @@ Seit 2020
 
 Links
 --------------------
-Cloud Websites   
-: [Github](https://github.com/tik9)
-: [LinkedIn](https://www.linkedin.com/in/timo1818)
-: [Stackoverflow](https://stackexchange.com/users/1886776/timo?tab=activity)
-: [Own](https://tiapps.netlify.app)
+<!-- <div id=links></div> -->
+{{< links >}}
 
 Ausbildung
 ----------
@@ -42,9 +38,9 @@ Ausbildung
 Tools
 ------------
 
-| Tool           | Anwendung in Jahren |
-| :------------- | :-----------------: |
-| Git            |          1          |
-| Javascript     |          1          |
-| MongoDb        |          1          |
-| Windows Server |          2          |
+| Tool                 | Anwendung in Jahren |
+| :------------------- | :-----------------: |
+| Windows Server       |          2          |
+| Windows Client 10,11 |          1          |
+| MS Office            |          3          |
+| Netzwerke,Firewall   |          1          |
