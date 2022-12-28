@@ -23,7 +23,7 @@ Seit 2020
 
 Links
 --------------------
-<!-- <div id=links></div> -->
+
 {{< links >}}
 
 Ausbildung
@@ -38,9 +38,4 @@ Ausbildung
 Tools
 ------------
 
-| Tool                 | Anwendung in Jahren |
-| :------------------- | :-----------------: |
-| Windows Server       |          2          |
-| Windows Client 10,11 |          1          |
-| MS Office            |          3          |
-| Netzwerke,Firewall   |          1          |
+{{< tools >}}

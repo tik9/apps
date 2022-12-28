@@ -4,7 +4,6 @@ type: cv
 ---
 
 -----------
-<br>
 
 Working Experience
 --------------------
@@ -29,12 +28,8 @@ Since 2020
 
 Links
 --------------------
-Cloud Websites
-{{< links >}}
+{{< links en >}}
 
-: [github.com/tik9](https://github.com/tik9)
-: [linkedin.com/in/timo1818](https://www.linkedin.com/in/timo1818)
-: [Eigene](https://tiapps.netlify.app)
 
 Education
 ----------
@@ -52,9 +47,4 @@ Education
 Tools
 ------------
 
-| Tool       | Usage (years) |
-| :--------- | :-----------: |
-| Git        |       1       |
-| Javascript |       1       |
-| MongoDb    |       1       |
-| VSCode     |       2       |
+{{< tools >}}
