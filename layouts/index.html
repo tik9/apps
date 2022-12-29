@@ -1,31 +1,30 @@
 {{ partial "head.html" }}
 
-<div class="container" style="margin-top: 70px;">
+<div id="lang_switch" style="float: right;margin-right: 100px;">
+    <ul class="language-list">
+        {{ range $.Site.Home.AllTranslations }}
 
-    <h2>{{ T "overview" }}</h2>
-    <div id="lang_switch" style="float: right;margin-right: 100px;">
+        <li style="display: inline;margin-left: 10px;"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
 
-        <ul class="language-list">
-            {{ range $.Site.Home.AllTranslations }}
+        {{ end }}
 
-            <li style="display: inline;"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-
-            {{ end }}
-
-        </ul>
-    </div>
-    <ul>
-        <li>
-            <a href="moti">{{ T "moti"}}</a>
-        </li>
-        <li style="margin-top: 20px;">
-            <a href="cv">{{ T "cv"}}</a>
-        </li>
     </ul>
-    <div id="links" style="margin-top: 100px;">
-        <a href="https://tifun.netlify.com">{{T "othersite"}}</a> |
-        <a href="https://github.com/tik9/apps">Hosted with &hearts; on Github</a>
-    </div>
+</div>
+
+<h2 style="margin-top: 50px;">{{ T "overview" }}</h2>
+
+<ul>
+    <li>
+        <a href="moti">{{ T "moti"}}</a>
+    </li>
+    <li style="margin-top: 20px;">
+        <a href="cv">{{ T "cv"}}</a>
+    </li>
+</ul>
+<div id="links" style="margin-top: 100px;">
+    <a href="https://tifun.netlify.com">{{T "othersite"}}</a> |
+    <a href="https://github.com/tik9/apps">Hosted with &hearts; on Github</a>
+</div>
 </div>
 </body>
 
