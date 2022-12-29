@@ -1,20 +1,21 @@
-{{ $com:="Stadt Ingolstadt" }}
-{{$job := "Fachinformatiker Systemintegration für Schul IT"}}
-{{$city := "ingolstadt"}}
+{{ $com:="" }}
+{{$job := ""}}
+{{$city := ""}}
 
-    <div style="margin-top: 40px"></div>
+<div style="margin-top: 40px"></div>
 
-    <span id="company">{{ printf "%s" $com }}</span><br />
-    HR
-    <div id="city">{{ printf "%s" $city }}</div>
+<span id="company">{{ printf "%s" $com }}</span><br />
+HR
+<div id="city">{{ printf "%s" $city }}</div>
 
-    <span style="margin-top: 40px;display: inline-block; width: 450px"></span>
-    <span id="date"></span>
+<span style="margin-top: 40px;display: inline-block; width: 450px"></span>
+<span id="date">
+    {{ now | time.Format ":date_long" }}
+</span>
+<div style="margin-top: 30px"></div>
 
-    <div style="margin-top: 30px"></div>
+<span style="display: inline-block; width: 450px"></span>
+<img align=center src=/tk.jpg alt='alt text' width=80 />
 
-    <span style="display: inline-block; width: 450px"></span>
-    <img align=center src=/tk.jpg alt='alt text' width=80 />
-
-    <div id="job" style="margin-top: 50px;margin-bottom: 50px;font-weight:bold;font-style: italic;">{{ printf "%s"
-        $job}}</div>
+<div id="job" style="margin-top: 50px;margin-bottom: 50px;font-weight:bold;font-style: italic;">{{ printf "%s"
+    $job}}</div>

@@ -9,19 +9,23 @@
 - Started with Node js, Nodemon and Express
 - Jekyll as SSG
 - Now: Hugo
+- i18n Support, works for the date in motivation letter 
 
 <br>
   
 ### Tools needed while making the site
 
-- Html, Markdown and CSS
+- Html,CSS
 - Javascript
+- Markdown
+- Go used in Hugo
 
 <br>
 
 ### Contents
 
-- [Overview](/)
+- [Overview in english](/)
+- [Overview in german](/de)
   
 <br>
 
