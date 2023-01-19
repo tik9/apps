@@ -5,13 +5,11 @@ de=2_de.pdf
 en=2_en.pdf
 
 other=en
-if [ $1 = en ]; then other=de ;fi
-
 function app {
+    if [ $1 = en ]; then other=de ;fi
     bew_final=$bewerbung/$bew.pdf
     rm $bew_final
-    
-    # mv $HOME/1.pdf $bewerbung
+    # ls $HOME/2_$other.pdf
     # out
     if [ ! -f $HOME/2_$other.pdf ]; then
         mv $bewerbung/2_$other.pdf $HOME
@@ -23,6 +21,7 @@ function app {
     pdfunite $bewerbung/*.pdf $bew_final
     ls -lh $bewerbung
 }
-# app
 
-$@
+app en
+
+# $@

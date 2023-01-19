@@ -22,7 +22,7 @@ h1 {
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 /* There is a bar just before each category */
@@ -46,10 +46,10 @@ dt {
 
 dd {
     margin-left: 20%;
-    margin-bottom: 15px;
 }
 
 li {
+    margin-bottom: 15px;
     font-size: 16px;
     color: black;
 }

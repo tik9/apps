@@ -1,17 +1,24 @@
 <div id="links_content"></div>
 
 <script>
-    var ul = document.createElement('ul')
-    document.getElementById('links_content').append(ul)
+    // var ul = document.createElement('ul')
+    var dl = document.createElement('dl')
+    document.getElementById('links_content').append(dl)
 
-    var arr = ['github.com/tik9', 'tiapps.netlify.app', 'linkedin.com/in/timo1818']
+    var arr = [{ 'Github': 'github.com/tik9' }, { 'Eigene site': 'tiapps.netlify.app' }, { 'LinkedIn': 'linkedin.com/in/timo1818' }]
     for (var elem of arr) {
-        var li = document.createElement('li')
-        ul.append(li)
-        var aref = document.createElement('a')
-        aref.textContent = elem
-        aref.href = 'https://' + elem
-        li.append(aref)
-        // console.log(elem)
+        for (key in elem) {
+            // var li = document.createElement('li')
+            var dt = document.createElement('dt')
+            var dd = document.createElement('dd')
+            dl.append(dt, dd)
+            dt.append(document.createTextNode(key))
+            var aref = document.createElement('a')
+
+            aref.textContent = elem[key]
+            aref.href = 'https://' + elem[key]
+            dd.append(aref)
+            console.log(key)
+        }
     }
 </script>

@@ -7,18 +7,13 @@ type: cv
 
 Working Experience
 --------------------
-2004-2020
-: Freelancer Systemadministration
-: - Wifi and LAN configuration
-: - DHCP and DNS
-: - hardware and in-house LAN wires/cables
+2004 - today
+: Freelancer Systemadministration and teacher
+: - Wifi/LAN configuration, DHCP and DNS
+: - PC hardware and in-house LAN wires/cables
 : - Support for Office 365, Windows 10 and 11 
 : - MS Exchange Server 2016 Usermanagement
-    
-Since 2010
-: Freelance teaching remote
-: -  classes in Math, IT, Economics and Statistics 
-: - for students and adults
+: -  classes in Math, IT, Economics and Statistics
 
 Since 2020
 : Bechtle Managed Services
@@ -39,9 +34,6 @@ Education
 1999 - 2004
 : Master in Management, Univerity of Bamberg, DE
 : Subjects: Controlling, Business English and Business IT
-
-1989 - 1998
-: High School Ingolstadt, DE
 
 
 Tools
