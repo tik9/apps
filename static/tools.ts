@@ -1,6 +1,7 @@
 
 
 getTools()
+//@ts-ignore
 async function getTools() {
     var net_fun = '/.netlify/functions/'
     var net_host = 'http://localhost'

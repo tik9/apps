@@ -3,10 +3,8 @@ type: moti_de
 ---
 
 - Abgeschlossenes BWL Studium
-- Erfahrung mit IT-Netzwerken und Software
-- Vertiefte Kenntnisse in Microsoft (Windows 10, Office 2019)
-- Hohe Serviceorien­tierung
-- Flexibilität bei der Aufgaben- und Arbeitszeitgestaltung
-- Hohes Maß an Einsatzbereitschaft, Verantwortungsbewusstsein und Zuverlässigkeit
-- Führerschein der Klasse B
-- Bereitschaft zur kontinuierlichen Fortbildung
+- Mehrjährige einschlägige Berufserfahrung im IT-Bereich, aktuell im Autoumfeld
+- Vertiefte Kenntnisse in der IT-Anwenderbetreuung (Hardware, Software, Server, Netzwerk, Telefonie)
+- Vertiefte Kenntnisse mit Microsoft-Produkten (Windows 10, Office 2019)
+- Ausgeprägte Team- und Kommunikationsfähigkeit, hohe Serviceorien­tierung
+- Meine Präferenz ist die Verwaltungs-IT
