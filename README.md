@@ -9,7 +9,7 @@
 - Started with Node js, Nodemon and Express
 - Jekyll as SSG
 - Now: Hugo
-- i18n Support, works for the date in motivation letter 
+- i18n Support for the date in motivation letter 
 
 <br>
   
@@ -18,7 +18,7 @@
 - Html,CSS
 - Javascript
 - Markdown
-- Go used in Hugo
+- Hugo
 
 <br>
 
