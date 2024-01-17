@@ -1,9 +1,8 @@
 ---
-# title: CV
+title: CV
 type: cv
 ---
-
------------
+---
 
 Working Experience
 --------------------
@@ -22,10 +21,8 @@ Education
 Subjects I teach
 -------------
 
-{{< classes >}}
+{{< subjects >}}
 
 
-Online tools I use
-------------
-
-{{< tools >}}
+---
+{{< contact >}}

@@ -9,17 +9,11 @@ Arbeitserfahrung
 --------------------
 
 Seit 2020
-: Bechtle Managed Services
-: - Tätigkeit: Problem Management Second Level
-: - Bereich: Service Unterstützung für Prozesse nach ITIL
-: - bis heute als Techniker dort angestellt
+: Mitarbeiter eines deutschen börsennotierten IT Dienstleisters
+: Tätigkeit: Problem Management Second Level
+: Bereich: Service Unterstützung für Prozesse nach ITIL
 
 Ausbildung
 ----------
 
 {{< edu >}}
-
-Tools
-------------
-
-{{< tools >}}

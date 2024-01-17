@@ -2,9 +2,15 @@
 
 <div id="lang_switch" style="float: right;margin-right: 100px;">
     <ul class="language-list">
-        {{ range $.Site.Home.AllTranslations }}
-
-        <li style="display: inline;margin-left: 10px;"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+        {{ range .Site.Home.AllTranslations }}
+      
+        <li style="display: inline;margin-left: 10px;">
+            {{ if eq .Lang $.Lang }} 
+            <span>{{ .Language.LanguageName }}</span>
+            {{else}}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{end}}
+        </li>
 
         {{ end }}
 
@@ -23,9 +29,8 @@
 </ul>
 <div id="links" style="margin-top: 100px;">
     <a href="https://tifun.netlify.com">{{T "othersite"}}</a> |
-    <a href="https://github.com/tik9">Hosted on Github</a>
-    <a href="https://linkedin.com/in/timo1818">My LinkedIn</a>
-    
+    <a href="https://github.com/tik9">Hosted on Github</a> |
+    <a href="https://linkedin.com/in/timo1818">LinkedIn</a>
 
 </div>
 </div>
